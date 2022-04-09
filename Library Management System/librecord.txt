@@ -1,0 +1,13 @@
+0	new	azmi	1	0    	
+0	exam	raka	0	0    	
+0	exam1	sk	1	0    	
+3	mid	exam	1	0    	
+3	exam	sk	0	0    	
+3	exam	aumi	0	0    	
+3	exam6	Sk.	1	0    	
+3	Azmiara	Aumi	1	0    	
+3	history	1722263642	1	1    	testing	
+3	library	managment	1	1    	system	
+1	cse225	raka	1	1    	cse225	
+0	mysql	AZMI	1	0	
+1	JAVA	AZMI	1	0	

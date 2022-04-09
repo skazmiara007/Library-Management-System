@@ -1,0 +1,14 @@
+ 2	new	cse	17	5	
+ 0	Lamia	english	848327	5	
+ 2	Sk.	AZmiAra	12	5	
+ 2	Aumi	CSE	1721	5	
+ 2	aumi	ECE	0	5	
+ 1	AZMI	CSE	4567	5	
+ 2	Sk.	Azmiara	4567	5	
+ 2	Sk.	Azmiara	0	5	
+ 0	raka	philosophy	123	5	
+ 1	azam	CSE	789	5	
+ 14	Black	CSE	345	5	
+ 1	harry	portar	123	5	
+ 2	SAA	ECE	123	5	
+ 7	AZMI	ECE	17	5	
